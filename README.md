@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=YijunYuan)
 
-I'm YijunYuan, a Ph.D. student at Yau Mathematical Sciences Center, Tsinghua University. I am interested in $p$-adic Galois representations and $p$-adic Hodge theory.
+I'm YijunYuan, a postdoctoral fellow at the Institute of Theoretical Sciences, Westlake University. I major in algebraic number theory, arithmetic geometry, and formalization of mathematics.
 
 [**Personal Homepage**](https://yijunyuan.github.io)
 
